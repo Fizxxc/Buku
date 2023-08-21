@@ -3,16 +3,23 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Login Web</title>
+    <title>Login Web</title> 
+    <style>
+        body{
+            background-color: darkgrey;
+        }
+    </style>
 </head>
 <body>
     <!--head-->
     <h1>Halaman Login Buku Tabungan</h1>
+    <form action="welcome.html" method="post">
     <label for="">No Rekening:</label>
-    <input type="number">
+    <input type="number" required>
     <br>
     <label for="">Nama Nasabah:</label>
-    <input type="text">
-    <a href="welcome.html"><button>submit</button></a>
+    <input type="text" required><br>
+    <button style="background-color: aqua;">submit</button></a>
+</form>
 </body>
 </html>
