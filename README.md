@@ -1,3 +1,3 @@
 # Fountaine_BukuTabungan
 🗿🙏🏻
-![logo](blob:https://web.whatsapp.com/2d4d9722-a73a-4258-81f2-9c05b6a70ed9)
+![logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRReg3aeNetpArzbAQ3qLwPr275GgSFr2pDLvzLBxrK4Z_xXi42dDSkmudf3q74xzpGH5w&usqp=CAU)
