@@ -1,0 +1,17 @@
+*{
+    font-family: sans-serif;
+}
+button{
+    background-color: blue;
+    color: white;
+}
+.list{
+    background-image: url(https://akcdn.detik.net.id/visual/2021/07/06/keindahan-wisata-super-prioritas-labuan-bajo_169.jpeg?w=650);
+    background-size: cover;
+    color: black;
+}
+.input{
+    background-image: url(https://www.lpl.com/content/dam/lpl-www/images/newsroom/read/insider/insider-blog-meme-stocks-what-do-they-mean_article-hero-450x450.png);
+    background-size:cover;
+    color: white;
+}
